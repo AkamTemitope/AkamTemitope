@@ -2,7 +2,7 @@
   
   `Akam Temitope`  </h1>
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" alt="Profile Picture" width="200">
+  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="Profile Picture" width="200">
 </p>
 Hi, I'm <b>Temitope</b>, a passionate Full Stack Developer with experience in building responsive websites. I enjoy coding, designing, and creating interactive web applications. In my free time, I love listening to music, playing games, and watching videos.
 
