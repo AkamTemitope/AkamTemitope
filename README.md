@@ -99,8 +99,7 @@ Hi, I'm <b>Temitope</b>, a passionate Full Stack Developer with experience in bu
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
     alt="cplusplus" width="40" height="40" />
 </p>
-<br /> <br/> <br /> <br/>
-
+<br /> <br/> <br /> <br/> <br /> <br/> <br /> <br/>
 
 <h2 align="left">Projects </h2> 
 <span>Click to view</span>
@@ -135,8 +134,7 @@ Hi, I'm <b>Temitope</b>, a passionate Full Stack Developer with experience in bu
     </a>
 </p>
 
-<br /> <br/> <br /> <br/> <br /> <br/>
-
+<br /> <br/> <br /> <br/> <br /> <br/> <br /> <br/> <br /> <br/>
 
 <h2>Contact</h2>
 
