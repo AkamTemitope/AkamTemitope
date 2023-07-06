@@ -97,11 +97,11 @@ Hi, I'm <b>Temitope</b>, a passionate Full Stack Developer with experience in bu
     style="padding-right:10px;"
     width="40px"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-    alt="cplusplus" width="40" height="40" />
+    alt="C++" width="40" height="40" />
 </p>
-<br /> <br/> <br /> <br/> <br /> <br/> <br /> <br/>
+<br /> <br/> <br /> <br/> <br />
 
-<h2 align="left">Projects </h2> 
+<h2>Projects </h2> 
 <span>Click to view</span>
 <p align="center">
     <a style="padding-right:20px;" href="https://dub.sh/movie-web-app">
@@ -134,9 +134,9 @@ Hi, I'm <b>Temitope</b>, a passionate Full Stack Developer with experience in bu
     </a>
 </p>
 
-<br /> <br/> <br /> <br/> <br /> <br/> <br /> <br/> <br /> <br/>
+<br /> <br/> <br /> <br/> <br /> <br/> <br />
 
 <h2>Contact</h2>
 
-**`Email`** : <a href="mailto:akamtemitope@yahoo.com">akamtemitope@yahoo.com</a>
+- **`Email`** : <a href="mailto:akamtemitope@yahoo.com">akamtemitope@yahoo.com</a> 
 
