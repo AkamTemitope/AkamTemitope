@@ -102,7 +102,8 @@ Hi, I'm <b>Temitope</b>, a passionate Full Stack Developer with experience in bu
 <br /> <br/> <br /> <br/>
 
 
-<h2 align="left">Projects </h2>
+<h2 align="left">Projects </h2> 
+<span>Click to view</span>
 <p align="center">
     <a style="padding-right:20px;" href="https://dub.sh/movie-web-app">
         <img
