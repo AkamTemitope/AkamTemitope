@@ -138,5 +138,5 @@ Hi, I'm <b>Temitope</b>, a passionate Full Stack Developer with experience in bu
 
 <h2>Contact</h2>
 
-- **`Email`** : <a href="mailto:akamtemitope@yahoo.com">akamtemitope@yahoo.com</a> 
+- **`Email`** : <a href="mailto:akamtemitope@yahoo.com">📧 akamtemitope@yahoo.com</a> 
 
