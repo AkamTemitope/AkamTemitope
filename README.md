@@ -1,142 +1,51 @@
-<h1 align="center"> 
+<h1 align="center">  
   
-  `Akam Temitope`  </h1>
+`Akam Temitope` </h1>
 <p align="center">
-  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="Profile Picture" width="200">
-</p>
-Hi, I'm <b>Temitope</b>, a passionate Full Stack Developer with experience in building responsive websites. I enjoy coding, designing, and creating interactive web applications. In my free time, I love listening to music, playing games, and watching videos.
+<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="profile" width="200"> </p>
+
+Hi 👋, I'm **Temitope**, a passionate Full Stack Developer with experience in building responsive websites. I enjoy coding, designing, and creating interactive web applications.
 
 ---
 
-<h2 align="left" >Languages and Tools:</h2>
+<h3 align="center"> Tech stack 💻 </h3>
+  
+![React][react badge] ![Next][next badge] ![HTML5][html badge] ![CSS3][css badge] ![SASS][sass badge] ![Tailwind][tw badge] ![JavaScript][js badge] ![TypeScript][ts badge] ![Node.js][node badge] ![Express][express badge] ![MongoDB][mdb badge] ![MySQL][mysql badge] ![Figma][figma badge] ![C++][c++ badge] 
 
-<p align="center">
-<img
-    align="left"
-    style="padding-right:10px;"
-    width="40px"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-    alt="react" width="40" height="40" /> 
-<img
-    align="left"
-    style="padding-right:10px;"
-    width="40px"
-    src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" />
-<img
-    align="left"
-    style="padding-right:10px;"
-    width="40px"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-    alt="html5" width="40" height="40" />
-<img
-    align="left"
-    style="padding-right:10px;"
-    width="40px"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
-    width="40" height="40" />
-<img
-    align="left"
-    style="padding-right:10px;"
-    width="40px"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"
-    width="40" height="40" /> 
-<img
-    align="left"
-    style="padding-right:10px;"
-    width="40px"
-    src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40"
-    height="40" />
-<img
-    align="left"
-    style="padding-right:10px;"
-    width="40px"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-    alt="javascript" width="40" height="40" />
-<img
-    align="left"
-    style="padding-right:10px;"
-    width="40px"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-    alt="typescript" width="40" height="40" />
-<img
-    align="left"
-    style="padding-right:10px;"
-    width="40px"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-    alt="nodejs" width="40" height="40" /> 
-<img
-    align="left"
-    style="padding-right:10px;"
-    width="40px"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-    alt="express" width="40" height="40" />
-<img
-    align="left"
-    style="padding-right:10px;"
-    width="40px"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-    alt="mongodb" width="40" height="40" />
-<img
-    align="left"
-    style="padding-right:10px;"
-    width="40px"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-    alt="postgresql" width="40" height="40" />
-<img
-    align="left"
-    style="padding-right:10px;"
-    width="40px"
-    src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
-<img
-    align="left"
-    style="padding-right:10px;"
-    width="40px"
-    src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
-<img
-    align="left"
-    style="padding-right:10px;"
-    width="40px"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-    alt="C++" width="40" height="40" />
-</p>
-<br /> <br/> <br /> <br/> <br />
+---
 
-<h2>Projects </h2> 
-<span>Click to view</span>
-<p align="center">
-    <a style="padding-right:20px;" href="https://dub.sh/movie-web-app">
-        <img
-            align="left"
-            width="200px" height="112px"
-            src="https://cdn.sanity.io/images/x2v94m1l/production/e1a784308ee7d0146ac68bd8153e964ca2dfcdbb-600x338.gif"
-            alt="Movie WA" />
-    </a>
-    <a style="padding-right:20px;" href="https://npbank.vercel.app/">
-        <img
-            align="left"
-            width="200px" height="112px"
-            src="https://cdn.sanity.io/images/x2v94m1l/production/9480d26eda12dfc4e4bf98fac923e41712a21a2c-600x338.gif" 
-            alt="NPBank" />
-    </a>
-    <a style="padding-right:20px;" href="https://dub.sh/rtc">
-        <img
-            align="left"
-            width="200px" height="112px"
-            src="https://cdn.sanity.io/images/x2v94m1l/production/e26d34d59ba00b09cd970bc1f88302b8f77f5322-600x338.gif" 
-            alt="RealTimeChat" />
-    </a>
-    <a style="padding-right:20px;" href="https://dub.sh/musicweb">
-        <img
-            align="left"
-            width="200px" height="112px"
-            src="https://cdn.sanity.io/images/x2v94m1l/production/afc29a482c1f9602a04e2ada280a8da3b9ec9d2c-600x285.gif"
-            alt="Music WA"  />
-    </a>
-</p>
+### Contact 
+ <a href="https://akamtemitope.ru">
+    <img src="https://img.shields.io/badge/Website-05122A?style=flat&logo=googlecolab&logoColor=blue"/>
+</a><br>
+ <a href="https://t.me/akam_t">
+    <img src="https://img.shields.io/badge/Telegram-05122A?style=flat&logo=telegram"/>
+</a><br>
+<a href="mailto:akamtemitope@yahoo.com">
+    <img src="https://img.shields.io/badge/Email-05122A?style=flat&logo=yahoo!"/>
+</a><br>
 
-<br /> <br/> <br /> <br/> <br /> <br/> <br />
+---
 
-<h2>Contact</h2>
+### GitHub analytics ⚙️
 
-- **`Email`** : <a href="mailto:akamtemitope@yahoo.com">📧 akamtemitope@yahoo.com</a> 
+<a href="https://github.com/akamtemitope">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=akamtemitope&layout=compact&langs_count=8&theme=algolia"/>
+</a><br>
 
+![](https://komarev.com/ghpvc/?username=akamtemitope&color=ff69b4)
+
+[react badge]:https://img.shields.io/badge/-React-05122A?style=flat&logo=react
+[next badge]:https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js
+[html badge]:https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5
+[css badge]:https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3
+[sass badge]:https://img.shields.io/badge/-SASS-05122A?style=flat&logo=sass
+[tw badge]:https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss
+[js badge]:https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript
+[ts badge]:https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript
+[node badge]:https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js
+[express badge]:https://img.shields.io/badge/-Express-05122A?style=flat&logo=express
+[mdb badge]:https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb
+[mysql badge]:https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql
+[figma badge]:https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma
+[c++ badge]:https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B 
