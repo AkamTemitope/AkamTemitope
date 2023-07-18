@@ -1,8 +1,7 @@
 <h1 align="center">  
   
 `Akam Temitope` </h1>
-<p align="center">
-<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="profile" width="200"> </p>
+<p align="center"><img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="profile" width="200"></p>
 
 Hi 👋, I'm **Temitope**, a passionate Full Stack Developer with experience in building responsive websites. I enjoy coding, designing, and creating interactive web applications.
 
